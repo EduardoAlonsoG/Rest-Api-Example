@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "1" , 
+        "title" : "alines" , 
+        "movieYear" : "4004",
+        "rating" : 8.9,
+        "director" : "james cameron"
+    } , 
+    {
+        "id" : "2" , 
+        "title" : "wolf of wallstreet" , 
+        "movieYear" : "1849",
+        "rating" : 7.8,
+        "director" : "nose quien la hizo"
+    } , 
+    {
+        "id" : "3" , 
+        "title" : "age of ice" , 
+        "movieYear" : "2004",
+        "rating" : 9.8,
+        "director" : "tampoco se"
+    }
+]
